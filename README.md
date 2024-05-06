@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hi, I'm Trevor. :wave:
 
 ### I am a recent graduate from the The University of Iowa Tippie College of Business. I graduated with a degree in Business Analytics and informations systems.
