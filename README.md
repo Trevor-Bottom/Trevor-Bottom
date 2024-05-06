@@ -1,6 +1,6 @@
 ## Hi, I'm Trevor. :wave:
 
-### I am a recent graduate from the The University of Iowa Tippie College of Business. I graduated with a degree in Business Analytics and informations systems.
+### I am a recent graduate from the The University of Iowa Tippie College of Business. I graduated with a degree in Business Analytics and Informations Systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trevor-bottom) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ttbgolf.com/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trevor_bottom)
 
